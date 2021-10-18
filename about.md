@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-img.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile_img.png "Profile Picture"){:.profile}
 
 Arm 프로세서 기반의 시스템 개발과 수 년간 개발자들을 위한 Arm 개발 툴 교육을 진행해 왔습니다. 저의 개인 홈페이지는 [CTPlex][ctplex] 이며, 이곳에서도 Arm 관련 기술이나 뉴스를 확인할 수 있습니다. 그러나 여러 이유로 홈페이지 내용이 업데이트 되지 않고 있습니다. 시간이 허락하는 대로 좋은 콘텐츠로 업데이트를 할 예정입니다.
 
